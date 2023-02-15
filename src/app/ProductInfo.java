@@ -39,7 +39,7 @@ public class ProductInfo {
         name = "Apple";
         quantity = 100;
         price = 1020;
-        taxRate = 1;
+        taxRate = 10;
     }
 
     //  Метод рассчета дохода
