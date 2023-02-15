@@ -38,7 +38,7 @@ public class ProductInfo {
     private static void initVars() {
         name = "Apple";
         quantity = 100;
-        price = 1000;
+        price = 1020;
         taxRate = 1;
     }
 
